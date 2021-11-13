@@ -17,7 +17,7 @@
 <a href="https://discord.gg/AxQJEwpGCW" target="blank"><img align="center" src="C:\\Users\\Michael\\Downloads\\GitHub profile\\MishManners\\Game Icons\\discord.png" height="30" /></a> 
 <a href="https://steamcommunity.com/profiles/76561199113573778/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="30" /></a>
 
-
+<img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
 
 
 ### Some Fun Facts about me:
