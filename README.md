@@ -1,16 +1,29 @@
+![Github pro](https://user-images.githubusercontent.com/89427972/141657473-c79f8851-599a-4a36-b110-6d60689b7a05.png)
+
+
+--------------------------------
+
 ### Hi there 👋
 
-<!--
-**Michael-Rusu/Michael-Rusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----------
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I am a ```Bot Developer```, ```Game Developer```, and ```Student```**
+
+
+------------------------
+
+
+```Languages```
+
+
+> Python
+ 
+>JavaScript(React.JS)
+
+>C++
+
+>C#
+
+>HTML
+
