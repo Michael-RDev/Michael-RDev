@@ -3,14 +3,15 @@
 
 --------------------------------
 
-### Hi there 👋
+### Hi there 👋 **I am a ```Bot Developer```, ```Game Developer```, and ```Student```**
 
 ----------
 
 
-**I am a ```Bot Developer```, ```Game Developer```, and ```Student```**
 
-![image](https://user-images.githubusercontent.com/89427972/141661792-7ea0a987-48af-41fc-87a7-65c4428e83e6.png)
+![githubgif](https://user-images.githubusercontent.com/89427972/141661831-3377012a-ea55-41dc-83b3-9c86eced4a6c.gif)
+
+
 
 
 
