@@ -25,7 +25,7 @@
 ```Apex Legends```
 <img align="center" width="300" height="300" src="https://media1.giphy.com/media/gHPT8CGQDzOwYZe2V8/giphy.gif"></a>
 ```Valorant```
-<img align="center" width="300" height="300" src="https://c.tenor.com/n4uCG_tsBp0AAAAd/valorant-viper.gif"></a>
+<img align="center" width="300" height="200" src="https://c.tenor.com/n4uCG_tsBp0AAAAd/valorant-viper.gif"></a>
 
 --------------------
 
