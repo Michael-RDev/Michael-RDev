@@ -10,8 +10,10 @@
 
 **I am a ```Bot Developer```, ```Game Developer```, and ```Student```**
 
+![image](https://user-images.githubusercontent.com/89427972/141661792-7ea0a987-48af-41fc-87a7-65c4428e83e6.png)
 
-------------------------
+
+
 
 
 ```Languages```
@@ -26,4 +28,6 @@
 >C#
 
 >HTML
+
+>Kali-Linux
 
