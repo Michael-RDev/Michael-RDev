@@ -11,9 +11,9 @@
 
 
 ### Games you might fine me on
-<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="C:\\Users\\Michael\\Downloads\\GitHub profile\\MishManners\\Game Icons\\discord.png" height="30" /></a> 
-<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="30" /></a>
+<a href="https://discord.gg/AxQJEwpGCW" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" /></a>
+<a href="https://discord.gg/AxQJEwpGCW" target="blank"><img align="center" src="C:\\Users\\Michael\\Downloads\\GitHub profile\\MishManners\\Game Icons\\discord.png" height="30" /></a> 
+<a href="https://steamcommunity.com/profiles/76561199113573778/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="30" /></a>
 
 
 
