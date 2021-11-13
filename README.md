@@ -21,9 +21,3 @@
 ### Some Fun Facts about me:
 :zap: I love playing video games., I also do live coding, hiking, snowboarding, and wakeboarding. I am super friendly and enjoy talking to people, If you want to talk just shoot me up a DM on discord.😊
 
-
-
-### Watch my contribution graph get eaten by the snake 🐍
-
-<!-- platane/snk works, it just puts it on a new branch -->
-![Michael Rusus snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
