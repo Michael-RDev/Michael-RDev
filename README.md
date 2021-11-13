@@ -1,8 +1,10 @@
 ## Hello Im Michael Rusu ✌
 
 
-<img align="right" width="200" height="150" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"></a>
+<img align="center" width="300" height="200" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"></a>
 
+
+----------------------
 ### Find me:
 
 <p align="left">
@@ -21,5 +23,5 @@
 
 
 ### Some Fun Facts about me:
-:zap: I love playing video games., I also do live coding, hiking, snowboarding, and wakeboarding. I am super friendly and enjoy talking to people, If you want to talk just shoot me up a DM on discord.😊
+I love playing video games., I also do live coding, hiking, snowboarding, and wakeboarding, as well as making friends and connections. I am super friendly and enjoy talking to people, If you want to talk just shoot me up a DM on discord.😊
 
