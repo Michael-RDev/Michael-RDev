@@ -9,6 +9,8 @@ Projects :
 
 > <a href="https://github.com/Michael-Rusu/Knight-The-Game/tree/main/Knight%20Game" target="blank"><p>Knight Game</p></a>
 
+```More Projects Coming```
+
 ----------------------
 ### Find me:
 
