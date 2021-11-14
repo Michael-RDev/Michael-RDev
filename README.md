@@ -3,8 +3,11 @@
 
 <img align="center" width="300" height="200" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"></a>
 
+Projects :
 
+> <a href="https://discord.com/api/oauth2/authorize?client_id=899306419814285403&permissions=536804322422&scope=bot" target="blank"><p>My Discord Bot</p></a>
 
+> > <a href="https://github.com/Michael-Rusu/Knight-The-Game/tree/main/Knight%20Game" target="blank"><p>Knight Game</p></a>
 
 ----------------------
 ### Find me:
