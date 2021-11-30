@@ -11,6 +11,8 @@ Projects :
 
 > <a href="https://github.com/Michael-Rusu/Knight-The-Game/tree/main/Knight%20Game" target="blank"><p>Knight Game</p></a>
 
+> <a href="https://github.com/Michael-Rusu/AI" target="blank"><p>AI</p></a>
+
 ```More Projects Coming```
 
 
