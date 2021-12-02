@@ -28,14 +28,7 @@ Projects :
 </p>
 
 ------------------------------------
-**Play some games and ge to know me!**
 
-```Apex Legends```
-<img align="center" width="300" height="300" src="https://media1.giphy.com/media/gHPT8CGQDzOwYZe2V8/giphy.gif"></a>
-```Valorant```
-<img align="center" width="300" height="150" src="https://c.tenor.com/n4uCG_tsBp0AAAAd/valorant-viper.gif"></a>
-
---------------------
 
 ### Some Fun Facts about me:
 I love playing video games., I also do live coding, hiking, snowboarding, and wakeboarding, as well as making friends and connections. I am super friendly and enjoy talking to people, If you want to talk just shoot me up a DM on discord.😊
