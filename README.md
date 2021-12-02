@@ -28,7 +28,7 @@ Projects :
 </p>
 
 ------------------------------------
-**Play some games with me!**
+**Play some games and ge to know me!**
 
 ```Apex Legends```
 <img align="center" width="300" height="300" src="https://media1.giphy.com/media/gHPT8CGQDzOwYZe2V8/giphy.gif"></a>
