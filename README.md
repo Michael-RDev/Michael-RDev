@@ -1,4 +1,4 @@
-## Hello Im Michael Rusu ✌
+## Hello Im Michael Rusu ✌, I'm a High School student
 
 
 <img align="left" width="300" height="200" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"></a>
