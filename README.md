@@ -9,7 +9,7 @@ Projects :
 
 > <a href="https://discord.com/api/oauth2/authorize?client_id=899306419814285403&permissions=536804322422&scope=bot" target="blank"><p>My Discord Bot</p></a>
 
-> <a href="https://github.com/Michael-Rusu/AI" target="blank"><p>AI</p></a>
+> <a href="https://github.com/Michael-Rusu/AI" target="blank"><p>AI using MediaPipe</p></a>
 
 ```More Projects Coming```
 
