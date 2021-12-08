@@ -31,7 +31,9 @@ Projects :
 |![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/python.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/tensorflow.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/azure.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/c++.png)|
 |![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/javascript.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/node.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/docker.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/arduino.png)|
 
-<img align="center" src="https://cdn.vox-cdn.com/thumbor/mbbw4EGgw611_LVWUtF3VhKD9_Q=/0x0:1200x630/1200x800/filters:focal(504x219:696x411)/cdn.vox-cdn.com/uploads/chorus_image/image/67287973/Unity_1200X630.0.png" height="100" />
+
+Unity
+<img align="center" src="https://cdn.vox-cdn.com/thumbor/mbbw4EGgw611_LVWUtF3VhKD9_Q=/0x0:1200x630/1200x800/filters:focal(504x219:696x411)/cdn.vox-cdn.com/uploads/chorus_image/image/67287973/Unity_1200X630.0.png" height="100" />, Kali-Linux <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b3/VirtualBox_Kali_Linux_21.01_x64_Desktop_GER_26_02_2021_16_59_25.png" height="100" />
    
 ### Some Fun Facts about me:
 I love playing video games., I also do live coding, hiking, snowboarding, and wakeboarding, as well as making friends and connections. I am super friendly and enjoy talking to people, If you want to talk just shoot me up a DM on discord.😊
