@@ -11,6 +11,8 @@ Projects :
 
 > <a href="https://github.com/Michael-Rusu/AI" target="blank"><p>MediaPipe</p></a>
 
+> <a href="https://github.com/Michael-Rusu/Discord-Nuker" target="blank"><p>Discord Nuker</p></a>
+
 ```More Projects Coming```
 
 
