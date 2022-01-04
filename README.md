@@ -1,16 +1,17 @@
-# Hi there, I am Anish <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave Animated" width="30px">
+# Hi there, I am Michael Rusu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave Animated" width="30px">
 
+<img align="center" width="300" height="200" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"></a>
 - 👾I am 15 years old
 
 **Currently Leaning**
 ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/tensorflow.svg)
 
 
+------------
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anishde12020)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnishDe12020)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/anishtechtutorials)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@anishde.dev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Tech_guyMike)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+
 
 
 &nbsp;
