@@ -87,7 +87,6 @@ I'm a software developer loving for <b>#opensource</b>, <b>#code</b>. In recent 
 ![](https://github-readme-stats.vercel.app/api?username=Michael-Rusu&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Rusu)
 ![](https://activity-graph.herokuapp.com/graph?username=Michael-Rusu&theme=minimal)
-![](https://activity-graph.herokuapp.com/graph?username=Michael-Rusu&theme=minimal)
 -------------------
 
 
