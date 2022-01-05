@@ -10,7 +10,6 @@ I'm a software developer loving for <b>#opensource</b>, <b>#code</b>. In recent 
 ## 😄What am I doing now?
 
 
-
 **Currently Leaning**:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -79,6 +78,8 @@ I'm a software developer loving for <b>#opensource</b>, <b>#code</b>. In recent 
   
   
 </details>
+  
+  
   
   
   
