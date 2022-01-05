@@ -92,7 +92,8 @@ I'm a software developer loving for <b>#opensource</b>. In recent years I've wor
 &nbsp;
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Michael-Rusu&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Rusu)
-![](https://activity-graph.herokuapp.com/graph?username=Michael-Rusu&theme=minimal)
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Michael-Rusu&show_icons=true&count_private=true&theme=dark" width="500"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Rusu&show_icons=true&count_private=true&theme=dark" width="500"></a>
+<a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=Michael-Rusu&theme=minimal&show_icons=true&count_private=true&theme=dark" width="600"></a>
+
 ------------------
