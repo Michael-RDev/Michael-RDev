@@ -68,12 +68,15 @@ I'm a software developer loving for <b>#opensource</b>, <b>#code</b>. In recent 
 ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Ardunio](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-  ![](https://1000logos.net/wp-content/uploads/2021/05/VMware-logo.png)
-  ![](https://www.oracle.com/ocom/groups/public/@otn/documents/digitalasset/176619.png)
-  ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvisualstudio.microsoft.com%2F&psig=AOvVaw3Yzf24nGxoza6Dng4VFijW&ust=1641427615138000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKj-0MGomfUCFQAAAAAdAAAAABAe![image](https://user-images.githubusercontent.com/89427972/148140469-bed1f199-2675-4ae5-9be6-f5af37246ece.png)
-)
+ 
+ <details>
+  <summary>See More</summary>
   
-
+  ![VMWARE](https://1000logos.net/wp-content/uploads/2021/05/VMware-logo.png)
+  ![OracleVM](https://www.oracle.com/ocom/groups/public/@otn/documents/digitalasset/176619.png)
+  
+  
+</details>
   
   
   
