@@ -4,7 +4,7 @@ Nice to meet you, my name is **Michael Rusu**
 
 - 👾I am 15 years old
 
-I'm a software developer loving for <b>#opensource</b>, <b>#code</b>. In recent yearsworking in some open source projects. As a junior software engineer, the more I learn, the more I realise how much I still need to learn.</p>
+I'm a software developer loving for <b>#opensource</b>, <b>#code</b>. In recent years working in some open source projects. As a junior software engineer, the more I learn, the more I realise how much I still need to learn.</p>
 
 &nbsp;
 ## 😄What am I doing now?
