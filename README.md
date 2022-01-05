@@ -49,7 +49,9 @@ I'm a software developer loving for <b>#opensource</b>, <b>#code</b>. In recent 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-  
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+ 
 </details>
   
 ## 📱 Apps I use
@@ -59,31 +61,33 @@ I'm a software developer loving for <b>#opensource</b>, <b>#code</b>. In recent 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
-<details>
-  <summary>See more</summary>
-  
-  ![](https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png)
-  ![](https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+![Ardunio](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+  ![Anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
   ![](https://1000logos.net/wp-content/uploads/2021/05/VMware-logo.png)
   ![](https://www.oracle.com/ocom/groups/public/@otn/documents/digitalasset/176619.png)
   ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvisualstudio.microsoft.com%2F&psig=AOvVaw3Yzf24nGxoza6Dng4VFijW&ust=1641427615138000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKj-0MGomfUCFQAAAAAdAAAAABAe![image](https://user-images.githubusercontent.com/89427972/148140469-bed1f199-2675-4ae5-9be6-f5af37246ece.png)
 )
-  </details>
+  ![](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
+
   
   
   
 &nbsp;
-Operating Systems/Kernals
+## 💿 Operating Systems/Kernals
 
 ![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-
-  
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 &nbsp;
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Michael-Rusu&count_private=true)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Rusu)
+![](https://activity-graph.herokuapp.com/graph?username=Michael-Rusu&theme=minimal)
+![](https://activity-graph.herokuapp.com/graph?username=Michael-Rusu&theme=minimal)
 -------------------
 
 
