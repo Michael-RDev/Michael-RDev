@@ -11,7 +11,7 @@ I'm a software developer loving for <b>#opensource</b>, <b>#code</b>. In recent 
 
 
 
-**Currently Leaning**
+**Currently Leaning: **
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
