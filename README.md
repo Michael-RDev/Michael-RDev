@@ -12,9 +12,10 @@ I'm a software developer loving for <b>#opensource</b>, <b>#code</b>. In recent 
 
 
 **Currently Leaning**
-![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/tensorflow.svg)
-![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 &nbsp;
 ## 📷 Social's
@@ -62,14 +63,16 @@ I'm a software developer loving for <b>#opensource</b>, <b>#code</b>. In recent 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
+ ![](![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white))
 ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Ardunio](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-  ![Anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+ ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
   ![](https://1000logos.net/wp-content/uploads/2021/05/VMware-logo.png)
   ![](https://www.oracle.com/ocom/groups/public/@otn/documents/digitalasset/176619.png)
   ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvisualstudio.microsoft.com%2F&psig=AOvVaw3Yzf24nGxoza6Dng4VFijW&ust=1641427615138000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKj-0MGomfUCFQAAAAAdAAAAABAe![image](https://user-images.githubusercontent.com/89427972/148140469-bed1f199-2675-4ae5-9be6-f5af37246ece.png)
 )
-  ![](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
+  
 
   
   
