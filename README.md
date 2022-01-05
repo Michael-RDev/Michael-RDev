@@ -13,6 +13,8 @@ I'm a software developer loving for <b>#opensource</b>, <b>#code</b>. In recent 
 
 **Currently Leaning**
 ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/tensorflow.svg)
+![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 &nbsp;
 ## 📷 Social's
@@ -20,6 +22,7 @@ I'm a software developer loving for <b>#opensource</b>, <b>#code</b>. In recent 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Tech_guyMike)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15261476/michael-rusu)
+
 
 
 &nbsp;
@@ -45,20 +48,43 @@ I'm a software developer loving for <b>#opensource</b>, <b>#code</b>. In recent 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+  
 </details>
   
 ## 📱 Apps I use
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
+<details>
+  <summary>See more</summary>
+  
+  ![](https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png)
+  ![](https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png)
+  ![](https://1000logos.net/wp-content/uploads/2021/05/VMware-logo.png)
+  ![](https://www.oracle.com/ocom/groups/public/@otn/documents/digitalasset/176619.png)
+  ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvisualstudio.microsoft.com%2F&psig=AOvVaw3Yzf24nGxoza6Dng4VFijW&ust=1641427615138000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKj-0MGomfUCFQAAAAAdAAAAABAe![image](https://user-images.githubusercontent.com/89427972/148140469-bed1f199-2675-4ae5-9be6-f5af37246ece.png)
+)
+  </details>
+  
+  
+  
+&nbsp;
+Operating Systems/Kernals
 
+![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
----
   
 &nbsp;
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Michael-Rusu&count_private=true)
 
+-------------------
+
+
+![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
