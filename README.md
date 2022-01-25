@@ -14,9 +14,10 @@ I'm a software developer loving for <b>#opensource</b>. In recent years I've wor
 <!--![OpenAI](https://github.com/Michael-Rusu/Michael-Rusu/blob/main/OpenAI%20.png)-->
 <img src="https://github.com/Michael-Rusu/Michael-Rusu/blob/main/OpenAI%20.png" height = 30 width = 150></img>
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+**Future Learning**:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
 
 &nbsp;
 ## 📷 Social's
