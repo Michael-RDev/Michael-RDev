@@ -78,8 +78,9 @@ I'm a software developer who loves and values <b>#opensource</b> code. In recent
  <details>
   <summary>See More</summary>
   
-  ![VMWARE](https://1000logos.net/wp-content/uploads/2021/05/VMware-logo.png)
-  ![OracleVM](https://www.oracle.com/ocom/groups/public/@otn/documents/digitalasset/176619.png)
+  <img src="https://1000logos.net/wp-content/uploads/2021/05/VMware-logo.png" width="300px"></img>
+  <img src="https://www.oracle.com/ocom/groups/public/@otn/documents/digitalasset/176619.png" width="300px"></img>
+ 
   
   
 </details>
