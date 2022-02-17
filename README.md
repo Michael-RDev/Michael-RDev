@@ -12,14 +12,16 @@ I'm a software developer who loves and values <b>#opensource</b> code. In recent
 **Currently Leaning**:
 
 <!--![OpenAI](https://github.com/Michael-Rusu/Michael-Rusu/blob/main/OpenAI%20.png)-->
-<img src="https://github.com/Michael-Rusu/Michael-Rusu/blob/main/OpenAI%20.png" height = 30 width = 150></img>
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OCI](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+
 
 &nbsp;
 ## 🤔What do I want to learn?
 **Future Learning**:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+<img src="https://github.com/Michael-Rusu/Michael-Rusu/blob/main/OpenAI%20.png" height = 30 width = 150></img>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 &nbsp;
 ## 📷 Social's
