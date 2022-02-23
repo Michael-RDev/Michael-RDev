@@ -44,7 +44,7 @@ I'm a software developer who loves and values <b>#opensource</b> code. In recent
 <details>
   <summary>See More 👈</summary>
   
-<img src="https://github.com/Michael-Rusu/Michael-Rusu/blob/main/OpenAI%20.png" height = 30 width = 150></img>
+<img src="https://github.com/Michael-Rusu/Michael-Rusu/blob/main/OpenAI%20.png" height = 25 width = 125></img>
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
