@@ -11,6 +11,10 @@ I'm a software developer who loves and values <b>#opensource</b> code. In recent
 
 **Currently Leaning**:
 
+<!-- https://myoctocat.com/build-your-octocat/ 
+
+DO THIS LATER -->
+
 <!--![OpenAI](https://github.com/Michael-Rusu/Michael-Rusu/blob/main/OpenAI%20.png)-->
 ![OCI](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 
