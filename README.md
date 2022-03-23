@@ -16,7 +16,7 @@ I'm a software developer who loves and values <b>#opensource</b> code. In recent
 DO THIS LATER -->
 
 <!--![OpenAI](https://github.com/Michael-Rusu/Michael-Rusu/blob/main/OpenAI%20.png)-->
-![OCI](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+![ThreeJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 
 &nbsp;
