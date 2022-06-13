@@ -1,4 +1,6 @@
-# Hi there, I am Michael Rusu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave Animated" width="30px">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" align="center" alt="Wave Animated" width="30px">
+
+# Hi there, I am Michael Rusu 
 
 Nice to meet you, my name is **Michael Rusu** 
 
