@@ -13,6 +13,7 @@ I'm a software developer who loves and values <b>#opensource</b> code. In recent
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 <!-- https://myoctocat.com/build-your-octocat/ 
 
 DO THIS LATER -->
