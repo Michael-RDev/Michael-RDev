@@ -4,7 +4,7 @@
 
 Nice to meet you, my name is **Michael Rusu** 
 
-I'm a software developer who loves and values <b>#opensource</b> code. In recent years, I've worked on various open source projects. As a junior software engineer, the more I learn, the more I realize  how much I do not know.</p>
+I'm a junior software developer who loves <b>#opensource</b> code. I love learning how things <b>work</b>
 
 &nbsp;
 ## 😄What am I doing now?
