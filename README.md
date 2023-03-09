@@ -5,7 +5,8 @@
 Nice to meet you, my name is **Michael Rusu** 
 
 I'm a junior software developer who loves <b>#opensource</b> code. 
-> I love learning how things <b>work</b>
+
+``` I love learning how things work```
 
 &nbsp;
 ## 😄What am I doing now?
