@@ -4,7 +4,7 @@
 
 Nice to meet you, my name is **Michael Rusu** 
 
-I'm a junior software developer who loves <b>#opensource</b> code. 
+I'm a junior software developer who loves <a href="https://github.com/search?q=%23opensource"><b>#opensource</b><a/> code. 
 
 ``` I love learning how things work```
 
