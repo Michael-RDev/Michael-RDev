@@ -88,7 +88,7 @@ DO THIS LATER -->
  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
  ![Iterm](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
  ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
- 
+ <!--
  <details>
   <summary>See More</summary>
   
@@ -98,7 +98,7 @@ DO THIS LATER -->
   
   
 </details>
-  
+  -->
   
   
   
