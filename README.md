@@ -54,7 +54,6 @@ DO THIS LATER -->
 <details>
   <summary>See More 👈</summary>
   
-<img src="https://github.com/Michael-Rusu/Michael-Rusu/blob/main/OpenAI%20.png" height = 25 width = 125></img>
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
