@@ -1,8 +1,6 @@
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" align="center" alt="Wave Animated" width="30px">
 
-# Hi there, I am Michael Rusu 
-
-Nice to meet you, my name is **Michael Rusu** 
+# Hi there, I am Michael 
 
 I'm a junior software developer who loves <a href="https://github.com/search?q=%23opensource"><b>#opensource</b><a/> code. 
 
