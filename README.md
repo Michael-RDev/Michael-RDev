@@ -2,10 +2,18 @@
 
 # Hi there, I am Michael 
 
-I'm a software developer who loves <a href="https://github.com/search?q=%23opensource"><b>#opensource</b><a/> code. 
+I'm a ***Machine Learning Engineer*** who loves <a href="https://github.com/search?q=%23opensource"><b>#opensource</b><a/> code. My name is Michael, and I've been delving into the world of artificial intelligence for over 4 years. With a strong background in programming and game development, I've honed my skills in various aspects of machine learning and data analysis. In addition to my machine learning background, I'm excited to pursue university studies in machine learning and programming
 
-**I love learning how things work**
-  
+I'm an experienced machine learning specialist proficient in Python, TensorFlow. I've worked with renowned companies and utilized popular machine learning tools like scikit-learn, Keras for rapid prototyping and deployment. I have expertise in data preprocessing, feature engineering, model evaluation, and hyperparameter tuning. 
+
+
+**I specialize in**
+- Building Datasets
+- Getting Data Ready
+- Model Building
+- Model Deployment
+
+
 &nbsp;
 ## 😄What am I doing now?
 
@@ -43,17 +51,17 @@ DO THIS LATER -->
 ## 💻 Main Technologies I Work With
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 <details>
   <summary>See More 👈</summary>
   
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
