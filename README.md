@@ -32,8 +32,8 @@ DO THIS LATER -->
 ## 🤔What do I want to learn?
 **Future Learning**:
 
-![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
 
 &nbsp;
 ## 💻 Main Technologies I Work With
