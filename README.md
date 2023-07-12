@@ -2,11 +2,11 @@
 
 # Hi there, I am Michael 
 
-I'm a ***Machine Learning Engineer*** who loves <a href="https://github.com/search?q=%23opensource"><b>#opensource</b><a/> code. My name is Michael, and I've been delving into the world of artificial intelligence for over 4 years. With a strong background in programming and game development, I've honed my skills in various aspects of machine learning and data analysis. In addition to my machine-learning background, I'm excited to pursue university studies in machine learning and programming
+I'm a ***Machine Learning Engineer*** who loves <a href="https://github.com/search?q=%23opensource"><b>#opensource</b><a/> code. My name is Michael, and I've been delving into the world of artificial intelligence for over 4 years. With a strong background in programming and game development, I've honed my skills in various aspects of machine learning and data analysis. In addition to my machine-learning background, I'm excited to pursue university studies in machine-learning and programming
 
 **I specialize in**
 - Building Datasets
-- Getting Data Ready
+- Preparing Data
 - Model Building
 - Model Deployment
 
