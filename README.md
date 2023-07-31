@@ -6,7 +6,7 @@ I'm a ***Machine Learning Engineer*** who loves <a href="https://github.com/sear
 
 **I specialize in**
 - Building Datasets
-- Preparing Data
+- Preparing Data for Training
 - Model Building
 - Model Deployment
 
