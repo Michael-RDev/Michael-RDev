@@ -104,10 +104,9 @@ DO THIS LATER -->
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
 &nbsp;
 ## 📊 GitHub Stats
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Michael-Rusu&show_icons=true&count_private=true&theme=dark" width="500"></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Rusu&show_icons=true&count_private=true&theme=dark" width="500"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-RDev&show_icons=true&count_private=true&theme=dark" width="500"></a>
 
-------------------
