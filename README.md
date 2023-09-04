@@ -2,7 +2,7 @@
 
 # Hi there, I am Michael 
 
-I'm a ***Machine Learning Engineer*** who loves <a href="https://github.com/search?q=%23opensource"><b>#opensource</b><a/> code. My name is Michael, and I've been delving into the world of artificial intelligence for over 4 years. With a strong background in programming, I've honed my skills in various aspects of machine learning and data analysis. In addition to my machine-learning background, I'm excited to pursue university studies in machine-learning and programming
+I'm a ***Machine Learning Engineer*** who loves <a href="https://github.com/search?q=%23opensource"><b>#opensource</b><a/> code. My name is Michael, and I've been delving into the world of artificial intelligence for over 4 years. With a strong background in programming, I've honed my skills in various aspects of machine learning and data analysis. In addition to my machine-learning background, I'm excited to pursue university studies in machine learning and programming
 
 **I specialize in**
 - Building Datasets
@@ -10,8 +10,15 @@ I'm a ***Machine Learning Engineer*** who loves <a href="https://github.com/sear
 - Model Building
 - Model Deployment
 
-I'm an experienced machine learning specialist proficient in Python, TensorFlow. I've worked with renowned companies and utilized popular machine-learning tools like Scikit-learn, and Keras for rapid prototyping and deployment. I have expertise in data preprocessing, feature engineering, model evaluation, and hyperparameter tuning. 
+I'm an experienced machine learning specialist proficient in Python, and TensorFlow. I've worked with renowned companies and utilized popular machine-learning tools like Scikit-learn, and Keras for rapid prototyping and deployment. I have expertise in data preprocessing, feature engineering, model evaluation, and hyperparameter tuning. 
 
+***I build***
+- Computer Vision Models
+- LLM (Large Language Models)
+- Image Classification Models
+- Real-Time Detection Models
+- Sentiment Analysis Models
+- And More :)
 
 &nbsp;
 ## 😄What am I doing now?
