@@ -27,11 +27,7 @@ I'm an experienced machine learning specialist proficient in Python, and TensorF
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-<!-- https://myoctocat.com/build-your-octocat/ 
-
-DO THIS LATER -->
-
-<!--![OpenAI](https://github.com/Michael-Rusu/Michael-Rusu/blob/main/OpenAI%20.png)-->
+<!-- https://myoctocat.com/build-your-octocat/ -->
 
 
 
