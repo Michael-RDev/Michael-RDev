@@ -26,7 +26,7 @@ I'm an experienced machine learning specialist proficient in Python, and TensorF
 **Currently Leaning**:
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+
 <!-- https://myoctocat.com/build-your-octocat/ 
 
 DO THIS LATER -->
@@ -45,6 +45,7 @@ DO THIS LATER -->
 &nbsp;
 ## 💻 Main Technologies I Work With
 
+![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
