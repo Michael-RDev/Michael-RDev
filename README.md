@@ -116,5 +116,3 @@ I'm an experienced machine learning specialist proficient in Python, and TensorF
 ## 📊 GitHub Stats
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-RDev&show_icons=true&count_private=true&theme=dark" width="500"></a>
-
-10010110 10110101 00110100 10100101 00101110 01000010 11001100 10101110
