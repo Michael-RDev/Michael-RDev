@@ -1,3 +1,5 @@
+<img src="octocat-1695831045204.png" align="center" alt="My Octo Cat" width="400px">
+
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" align="center" alt="Wave Animated" width="30px">
 
 # Hi there, I am Michael 
