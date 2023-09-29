@@ -54,7 +54,7 @@ I am an experienced machine learning specialist proficient in Python and TensorF
 
 
 <details>
-  <summary>Additional Programs: 👈</summary>
+  <summary><b>Additional Programs: </b>👈</summary>
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
