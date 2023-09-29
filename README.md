@@ -3,18 +3,17 @@
 
 # Hi there, I am Michael 
 
-I'm a ***Machine Learning Engineer*** who loves <a href="https://github.com/search?q=%23opensource"><b>#opensource</b><a/> code. My name is Michael, and I've been delving into the world of artificial intelligence for over 4 years. With a strong background in programming, I've honed my skills in various aspects of machine learning and data analysis. In addition to my machine-learning background, I'm excited to pursue university studies in machine learning and programming
+I am a ***Machine Learning Engineer*** who loves <a href="https://github.com/search?q=%23opensource"><b>#opensource</b><a/> code. I've been delving into the world of artificial intelligence for over 4 years. I've honed my skills in various aspects of machine learning and data analysis to give a strong background in programming. In addition to my machine-learning background, I'm excited to pursue university studies in machine learning and programming.
 
-**I specialize in**
+**I specialize in:**
 - Building Datasets
 - Preparing Data for Training
 - Model Building
 - Model Deployment
 
+I am an experienced machine learning specialist proficient in Python and TensorFlow. I've worked with companies like SCC Soft Computer and utilized popular machine-learning tools like Scikit-learn and Keras for rapid prototyping and deployment. I have expertise in data preprocessing, feature engineering, model evaluation, and hyperparameter tuning. 
 
-I'm an experienced machine learning specialist proficient in Python, and TensorFlow. I've worked with renowned companies and utilized popular machine-learning tools like Scikit-learn, and Keras for rapid prototyping and deployment. I have expertise in data preprocessing, feature engineering, model evaluation, and hyperparameter tuning. 
-
-***I build***
+***I build:***
 - Computer Vision Models
 - LLM (Large Language Models)
 - Image Classification Models
@@ -25,7 +24,7 @@ I'm an experienced machine learning specialist proficient in Python, and TensorF
 &nbsp;
 ## 😄What am I doing now?
 
-**Currently Leaning**:
+**Currently Learning**:
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
@@ -42,7 +41,7 @@ I'm an experienced machine learning specialist proficient in Python, and TensorF
 
 
 &nbsp;
-## 💻 Main Technologies I Work With
+## 💻 Main Technologies I Work With:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 ![SciKitLearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -55,7 +54,7 @@ I'm an experienced machine learning specialist proficient in Python, and TensorF
 
 
 <details>
-  <summary>See More 👈</summary>
+  <summary>See More: 👈</summary>
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
@@ -75,7 +74,7 @@ I'm an experienced machine learning specialist proficient in Python, and TensorF
  
 </details>
   
-## 📱 Apps I use
+## 📱 Apps I use:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -106,7 +105,7 @@ I'm an experienced machine learning specialist proficient in Python, and TensorF
   
   
 &nbsp;
-## 💿 Operating Systems/Kernals
+## 💿 Operating Systems/Kernals:
 
 ![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -114,6 +113,6 @@ I'm an experienced machine learning specialist proficient in Python, and TensorF
 ![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 &nbsp;
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-RDev&show_icons=true&count_private=true&theme=dark" width="500"></a>
