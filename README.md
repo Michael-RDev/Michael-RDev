@@ -3,7 +3,7 @@
 
 # Hi there, I am Michael 
 
-I am a ***Machine Learning Engineer*** who loves <a href="https://github.com/search?q=%23opensource"><b>#opensource</b><a/> code. I've been delving into the world of artificial intelligence for over 4 years. I've honed my skills in various aspects of machine learning and data analysis to give a strong background in programming. In addition to my machine-learning background, I'm excited to pursue university studies in machine learning and programming.
+I am a ***Machine Learning Engineer*** who loves <a href="https://github.com/search?q=%23opensource"><b>#opensource</b><a/> code. I've been delving into the world of artificial intelligence for 5+ years. I've honed my skills in various aspects of machine learning and data analysis to give a strong background in programming. In addition to my machine-learning background, I'm excited to pursue university studies in machine learning and programming.
 
 **I specialize in:**
 - Building Datasets
