@@ -11,7 +11,7 @@ I am a ***Machine Learning Engineer*** who loves <a href="https://github.com/sea
 - Model Building
 - Model Deployment
 
-I am an experienced machine learning specialist proficient in Python and TensorFlow. I've worked with companies like ***Lockheed Martin && SCC Soft Computer*** and utilized popular machine-learning tools like Scikit-learn and Keras for rapid prototyping and deployment. I have expertise in data preprocessing, feature engineering, model evaluation, and hyperparameter tuning. 
+I am an experienced machine learning specialist proficient in Python and TensorFlow. I've worked with companies like ***Lockheed Martin && NASA*** and utilized popular machine-learning tools like Scikit-learn and Keras for rapid prototyping and deployment. I have expertise in data preprocessing, feature engineering, model evaluation, and hyperparameter tuning. 
 
 ***I build:***
 - Computer Vision Models
