@@ -3,7 +3,7 @@
 
 # Hi there, I am Michael 
 
-I am a ***Machine Learning Engineer*** who loves <a href="https://github.com/search?q=%23opensource"><b>#opensource</b><a/> code. I've been delving into the world of artificial intelligence for 5+ years. I've honed my skills in various aspects of machine learning and data analysis to give a strong background in programming. In addition to my machine-learning background, I'm excited to pursue university studies in machine learning and programming.
+I am a ***Machine Learning Engineer*** @ UCF who loves <a href="https://github.com/search?q=%23opensource"><b>#opensource</b><a/> code. I've been delving into the world of artificial intelligence for 5+ years. I've honed my skills in a variety of areas in machine learning and data analysis to give a strong background in programming. In addition to my machine-learning background, I'm excited to pursue university studies in machine learning and programming.
 
 **I specialize in:**
 - Building Datasets
@@ -11,32 +11,7 @@ I am a ***Machine Learning Engineer*** who loves <a href="https://github.com/sea
 - Model Building
 - Model Deployment
 
-I am an experienced machine learning specialist proficient in Python and TensorFlow. I've worked with companies like ***Lockheed Martin && NASA*** and utilized popular machine-learning tools like Scikit-learn and Keras for rapid prototyping and deployment. I have expertise in data preprocessing, feature engineering, model evaluation, and hyperparameter tuning. 
-
-***I build:***
-- Computer Vision Models
-- LLM (Large Language Models)
-- Image Classification Models
-- Real-Time Detection Models
-- Sentiment Analysis Models
-- And More :)
-
-&nbsp;
-## 😄What am I doing now?
-
-**Currently Learning**:
-![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
-
-
-<!-- https://myoctocat.com/build-your-octocat/ -->
-
-
-
-&nbsp;
-## 🤔What do I want to learn?
-**Future Learning**:
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+I am an experienced machine learning specialist proficient in TensorFlow, Pytorch, etc. I've worked with companies such as ***Lockheed Martin && NASA*** and utilized popular machine-learning tools like Scikit-learn and Keras for rapid prototyping and deployment. I have expertise in data preprocessing, feature engineering, model evaluation, and hyperparameter tuning. 
 
 
 
@@ -52,6 +27,8 @@ I am an experienced machine learning specialist proficient in Python and TensorF
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mrpies)
 
 
 <details>
@@ -80,30 +57,12 @@ I am an experienced machine learning specialist proficient in Python and TensorF
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
- ![](![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white))
-![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Ardunio](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
- ![Iterm](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
- ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
- <!--
- <details>
-  <summary>See More</summary>
-  
-  <img src="https://1000logos.net/wp-content/uploads/2021/05/VMware-logo.png" width="300px"></img>
-  <img src="https://www.oracle.com/ocom/groups/public/@otn/documents/digitalasset/176619.png" width="300px"></img>
- 
-  
-  
-</details>
-  -->
-  
-  
+
   
   
 &nbsp;
@@ -118,3 +77,4 @@ I am an experienced machine learning specialist proficient in Python and TensorF
 ## 📊 GitHub Stats:
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-RDev&show_icons=true&count_private=true&theme=dark" width="500"></a>
+
