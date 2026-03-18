@@ -55,8 +55,3 @@ I am an experienced machine learning specialist proficient in TensorFlow, Pytorc
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-&nbsp;
-## 📊 GitHub Stats:
-
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-RDev&show_icons=true&count_private=true&theme=dark" width="500"></a>
-
