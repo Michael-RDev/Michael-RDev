@@ -1,22 +1,88 @@
-<img src="octocat-1695831045204.png" align="left" alt="My Octo Cat" width="400px">
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" align="left" alt="Wave Animated" width="30px">
+<div align="center">
 
-# Hi there, I am Michael 
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="middle">
 
-I am a ***Machine Learning Engineer*** @ UCF who loves <a href="https://github.com/search?q=%23opensource"><b>#opensource</b><a/> code. I've been delving into the world of artificial intelligence for 5+ years. I've honed my skills in a variety of areas in machine learning and data analysis to give a strong background in programming. In addition to my machine-learning background, I'm excited to pursue university studies in machine learning and programming.
+```
+███╗   ███╗██╗ ██████╗██╗  ██╗ █████╗ ███████╗██╗
+████╗ ████║██║██╔════╝██║  ██║██╔══██╗██╔════╝██║
+██╔████╔██║██║██║     ███████║███████║█████╗  ██║
+██║╚██╔╝██║██║██║     ██╔══██║██╔══██║██╔══╝  ██║
+██║ ╚═╝ ██║██║╚██████╗██║  ██║██║  ██║███████╗███████╗
+╚═╝     ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
+```
 
-**I specialize in:**
-- Building Datasets
-- Preparing Data for Training
-- Model Building
-- Model Deployment
+</td>
+<td valign="middle" width="180">
+<img src="octocat-1695831045204.png" alt="My Octo Cat" width="160px"/>
+</td>
+</tr>
+</table>
 
-I am an experienced machine learning specialist proficient in TensorFlow, Pytorch, etc. I've worked with companies such as ***Lockheed Martin && NASA*** and utilized popular machine-learning tools like Scikit-learn and Keras for rapid prototyping and deployment. I have expertise in data preprocessing, feature engineering, model evaluation, and hyperparameter tuning. 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" alt="wave"/>
 
+Hey, **I'm Michael**, I do everything ML :)
 
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Tech_guyMike)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-rusudev)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/mrpies)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=firefox&logoColor=white)](https://michaelml.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mickirusu@gmail.com)
 
-&nbsp;
-## 💻 Main Technologies I Work With:
+</div>
+
+---
+
+## a bit about me
+
+Honors CS + Data Science student @ UCF — 5+ years deep in Machine Learning and <a href="https://github.com/search?q=%23opensource"><b>#opensource</b></a>. Across that time I've gone from training my first classifier to building production ML pipelines, publishing models, and running research across two labs. I've touched everything from data wrangling and feature engineering to model architecture, deployment, and edge inference.
+
+I'm most drawn to the boundary between machine intelligence and human intuition: how models perceive the world, where they fail, and what that tells us about how we think. That thread runs through pretty much everything I work on.
+
+I interned as an ML Engineer @ Lockheed Martin, where I was building AI-powered inspection systems for aerospace manufacturing. Details are under NDA :( — but the system ended up 80% more accurate than the previous model and saved the team 15+ hours and $15000 a week.
+
+<table border="0" cellspacing="0" cellpadding="8">
+<tr>
+<td><b>🔬 VARLAB</b> @ UCF</td>
+<td>Researching how JEPA architectures and VLMs compare to actual human perception in XR environments</td>
+</tr>
+<tr>
+<td><b>🧠 KSRP</b> @ UCF</td>
+<td>Building on-device RAG pipelines with Knowledge Graphs for LLM personalization on edge hardware</td>
+</tr>
+<tr>
+<td><b>🛠️ Knight Hacks</b></td>
+<td>Workshop Director, running technical workshops and helping organize hackathons</td>
+</tr>
+<tr>
+<td><b>🤖 OpenAI</b></td>
+<td>Campus Ambassador @ UCF, promoting responsible AI literacy and practical adoption on campus</td>
+</tr>
+<tr>
+<td><b>🔎 Perplexity AI</b></td>
+<td>Campus Ambassador @ UCF, organizing demos and building awareness of AI-powered research tools</td>
+</tr>
+</table>
+
+🤗 I'm a big believer in open source. Models, tools, experiments, if something I build can be useful to someone else, it should be out there. Full stop.
+
+Outside the screen I'm usually doing one of: 🎸 playing guitar · 🎵 hunting for vinyl · 🧗 rock climbing · 🏓 pickleball · 📺 watching anime · 🃏 card games. Genuinely happy to nerd out about any of it — just reach out.
+
+---
+
+## 🔬 what I'm building right now
+
+| | |
+|--|------|
+| 🧠 | **ML research** — exploring model internals, edge inference, and the overlap between machine perception and human cognition. |
+| 💻 | **Open source software** — if I built it and it works, it should be public. |
+| 🌐 | **Open source models** — releasing models on Hugging Face & GitHub as I go. |
+| 🔧 | **Side projects** — always have something running in the background. hardware, tools, experiments. |
+
+---
+
+## ⚙️ tech I use
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -37,13 +103,6 @@ I am an experienced machine learning specialist proficient in TensorFlow, Pytorc
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-
-
-</details>
-  
-## 📱 Apps I use:
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
@@ -55,3 +114,57 @@ I am an experienced machine learning specialist proficient in TensorFlow, Pytorc
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+---
+
+## 📊 github stats
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Michael-RDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-RDev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Michael-RDev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Michael-RDev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+
+## 🎯 Kaggle
+
+<div align="center">
+
+[![Kaggle Competitions](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mrpies/competition/light)](https://www.kaggle.com/mrpies)
+[![Kaggle Datasets](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mrpies/dataset/light)](https://www.kaggle.com/mrpies)
+[![Kaggle Notebooks](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mrpies/notebook/light)](https://www.kaggle.com/mrpies)
+[![Kaggle Discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mrpies/discussion/light)](https://www.kaggle.com/mrpies)
+
+</div>
+
+<div align="center">
+
+[![Kaggle Contribution Graph](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?username=mrpies)](https://www.kaggle.com/mrpies)
+
+</div>
+
+---
+
+<div align="center">
+
+curiosity is the most powerful thing you own — [michaelml.dev](https://michaelml.dev)
+
+</div>
