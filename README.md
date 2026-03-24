@@ -36,9 +36,9 @@ Hey, **I'm Michael**, I do everything ML :)
 
 ## a bit about me
 
-Honors CS + Data Science student @ UCF — 5+ years deep in Machine Learning and <a href="https://github.com/search?q=%23opensource"><b>#opensource</b></a>. Across that time I've gone from training my first classifier to building production ML pipelines, publishing models, and running research across two labs. I've touched everything from data wrangling and feature engineering to model architecture, deployment, and edge inference.
+Honors CS + Data Science student @ UCF, 5+ years deep in Machine Learning and <a href="https://github.com/search?q=%23opensource"><b>#opensource</b></a>. Across that time I've gone from training my first classifier to building production ML pipelines, publishing models, and running research across two labs. I've touched everything from data wrangling and feature engineering to model architecture, deployment, and edge inference.
 
-I'm most drawn to the boundary between machine intelligence and human intuition: how models perceive the world, where they fail, and what that tells us about how we think. That thread runs through pretty much everything I work on.
+I'm most interested in the boundary between machine intelligence and human intuition (how models perceive the world, where they fail, and what that tells us about how we think). I also do work on other areas depending on the task
 
 I interned as an ML Engineer @ Lockheed Martin, where I was building AI-powered inspection systems for aerospace manufacturing. Details are under NDA :( — but the system ended up 80% more accurate than the previous model and saved the team 15+ hours and $15000 a week.
 
