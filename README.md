@@ -36,11 +36,11 @@ Hey, **I'm Michael**, I do everything ML :)
 
 ## a bit about me
 
-Honors CS + Data Science student @ UCF, 5+ years deep in Machine Learning and <a href="https://github.com/search?q=%23opensource"><b>#opensource</b></a>. Across that time I've gone from training my first classifier to building production ML pipelines, publishing models, and running research across two labs. I've touched everything from data wrangling and feature engineering to model architecture, deployment, and edge inference.
+Honors CS + Data Science student @ UCF, 5+ years deep in Machine Learning and <a href="https://github.com/search?q=%23opensource"><b>#opensource</b></a>. 
+
+Across that time I've gone from training my first classifier to building production ML pipelines, publishing models, and running research across two labs. I've touched everything from data wrangling and feature engineering to model architecture, deployment, and edge inference. 
 
 I'm most interested in the boundary between machine intelligence and human intuition (how models perceive the world, where they fail, and what that tells us about how we think). I also do work on other areas depending on the task
-
-I interned as an ML Engineer @ Lockheed Martin, where I was building AI-powered inspection systems for aerospace manufacturing. Details are under NDA :( — but the system ended up 80% more accurate than the previous model and saved the team 15+ hours and $15000 a week.
 
 <table border="0" cellspacing="0" cellpadding="8">
 <tr>
@@ -67,7 +67,6 @@ I interned as an ML Engineer @ Lockheed Martin, where I was building AI-powered 
 
 🤗 I'm a big believer in open source. Models, tools, experiments, if something I build can be useful to someone else, it should be out there. Full stop.
 
-Outside the screen I'm usually doing one of: 🎸 playing guitar · 🎵 hunting for vinyl · 🧗 rock climbing · 🏓 pickleball · 📺 watching anime · 🃏 card games. Genuinely happy to nerd out about any of it — just reach out.
 
 ---
 
@@ -131,17 +130,7 @@ Outside the screen I'm usually doing one of: 🎸 playing guitar · 🎵 hunting
 
 </div>
 
----
 
-## 🏆 trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Michael-RDev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 
 ## 🎯 Kaggle
@@ -153,13 +142,6 @@ Outside the screen I'm usually doing one of: 🎸 playing guitar · 🎵 hunting
 [![Kaggle Notebooks](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mrpies/notebook/light)](https://www.kaggle.com/mrpies)
 [![Kaggle Discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mrpies/discussion/light)](https://www.kaggle.com/mrpies)
 
-</div>
-
-<div align="center">
-
-[![Kaggle Contribution Graph](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?username=mrpies)](https://www.kaggle.com/mrpies)
-
-</div>
 
 ---
 
