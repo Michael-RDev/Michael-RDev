@@ -32,13 +32,12 @@ Hey, **I'm Michael**, I do everything ML :)
 
 </div>
 
----
 
 ## a bit about me
 
 Honors CS + Data Science student @ UCF, 5+ years deep in Machine Learning and <a href="https://github.com/search?q=%23opensource"><b>#opensource</b></a>. 
 
-🤗 I'm a big believer in open source. Models, tools, experiments, if something I build can be useful to someone else, it should be out there. Full stop.
+🤗 I'm a big believer in open source. Models, tools, experiments, if something I build can be useful to someone else, it should be out there. Full stop. I also use NeoVim btw.
 
 
 ---
