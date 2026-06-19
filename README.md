@@ -40,18 +40,6 @@ Honors CS + Data Science student @ UCF, 5+ years deep in Machine Learning and <a
 🤗 I'm a big believer in open source. Models, tools, experiments, if something I build can be useful to someone else, it should be out there. Full stop. I also use NeoVim btw.
 
 
----
-
-## 🔬 what I'm building right now
-
-| | |
-|--|------|
-| 🧠 | **ML research** — exploring model internals, edge inference, and the overlap between machine perception and human cognition. |
-| 💻 | **Open source software** — if I built it and it works, it should be public. |
-| 🌐 | **Open source models** — releasing models on Hugging Face & GitHub as I go. |
-| 🔧 | **Side projects** — always have something running in the background. hardware, tools, experiments. |
-
----
 
 ## ⚙️ tech I use
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
