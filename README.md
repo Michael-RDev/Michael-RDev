@@ -75,36 +75,6 @@ Honors CS + Data Science student @ UCF, 5+ years deep in Machine Learning and <a
 
 ---
 
-## 📊 github stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Michael-RDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-RDev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Michael-RDev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-
-
-
-## 🎯 Kaggle
-
-<div align="center">
-
-[![Kaggle Competitions](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mrpies/competition/light)](https://www.kaggle.com/mrpies)
-[![Kaggle Datasets](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mrpies/dataset/light)](https://www.kaggle.com/mrpies)
-[![Kaggle Notebooks](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mrpies/notebook/light)](https://www.kaggle.com/mrpies)
-[![Kaggle Discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mrpies/discussion/light)](https://www.kaggle.com/mrpies)
-
-
----
-
 <div align="center">
 
 curiosity is the most powerful thing you own — [michaelml.dev](https://michaelml.dev)
