@@ -32,7 +32,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/experience/lockheed-martin-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/experience/lockheed-martin-light.svg">
-      <img src="assets/experience/lockheed-martin-light.svg" alt="Lockheed Martin — Machine Learning Intern" width="300" height="114">
+      <img src="assets/experience/lockheed-martin-light.svg" alt="Lockheed Martin" width="300" height="80">
     </picture>
   </a>
   &nbsp;&nbsp;
@@ -40,7 +40,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/experience/scc-soft-computer-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/experience/scc-soft-computer-light.svg">
-      <img src="assets/experience/scc-soft-computer-light.svg" alt="SCC Soft Computer — MIS Intern" width="200" height="114">
+      <img src="assets/experience/scc-soft-computer-light.svg" alt="SCC Soft Computer" width="200" height="80">
     </picture>
   </a>
 </p>

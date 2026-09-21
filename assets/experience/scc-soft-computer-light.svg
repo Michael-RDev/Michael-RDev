@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="114" viewBox="0 0 200 114" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="80" viewBox="0 0 200 80" role="img" aria-labelledby="title description">
   <title id="title">SCC Soft Computer</title>
-  <desc id="description">MIS Intern</desc>
+  <desc id="description">SCC Soft Computer logo</desc>
   <svg xmlns="http://www.w3.org/2000/svg" width="132" height="70" viewBox="0 0 169.36 89.92" x="34.0" y="5">
   <defs>
     <style>.uuid-53404151-96ee-422f-a8d8-b92667bae6e9{fill:none;}.uuid-53404151-96ee-422f-a8d8-b92667bae6e9,.uuid-7d2c3b76-6dfd-4483-ac84-6a92cd193cc7{stroke-width:0px;}.uuid-7d2c3b76-6dfd-4483-ac84-6a92cd193cc7{fill:#2463a6;}.uuid-c53fe2a7-746e-4d56-bdc6-5cb3148a5b70{clip-path:url(#uuid-0f7ae834-a03b-4fe0-a1dd-cca8036b9ca2);}</style>
@@ -28,7 +28,4 @@
   </g>
   <rect class="uuid-7d2c3b76-6dfd-4483-ac84-6a92cd193cc7" y="64.02" width="163.93" height="1.37" />
 </svg>
-  <g fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" text-anchor="middle">
-    <text x="100.0" y="105" font-size="14" font-weight="600">MIS Intern</text>
-  </g>
 </svg>
