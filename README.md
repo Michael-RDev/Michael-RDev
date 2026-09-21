@@ -3,16 +3,16 @@
 <h1 align="center">hello world, i'm michael :)</h1>
 
 <p align="center">
-  <strong>honors cs + data science @ ucf</strong> · 5+ years in machine learning
+  <strong>honors cs + data science @ ucf</strong>
 </p>
 
 <p align="center">
-  I’m interested in solving problems with the use of machine learning, mathematics, and data.<br>
-  <em>I like training complex models, running experiments on HPC, serving those models and scaling them.</em>
+  interested in ML, mathematics, and data.<br>
+  <em>i like training complex models, experimenting w/ hpc, serving/scaling those models</em>
 </p>
 
 <p align="center">
-  I also love open-source : )
+  i also love open-source : )
 </p>
 
 <p align="center">
