@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  also love open-source : )
+  I also love open-source : )
 </p>
 
 <p align="center">
