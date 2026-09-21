@@ -20,7 +20,7 @@
   <a href="https://linkedin.com/in/michael-rusudev">linkedin</a> &nbsp;·&nbsp;
   <a href="https://kaggle.com/mrpies">kaggle</a> &nbsp;·&nbsp;
   <a href="https://x.com/reach_mrpie">x</a> &nbsp;·&nbsp;
-  <a href="mailto:mickirusu@gmail.com">email</a>
+  <a href="https://huggingface.co/MRCherryPie">hugging face</a>
 </p>
 
 <br>
